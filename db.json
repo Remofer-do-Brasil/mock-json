@@ -2,7 +2,7 @@
   "latest": {
     "version": "0.2.0",
     "releaseDate": "2025-02-19",
-    "firmwareUrl": "https://example.com/firmware/firmware_v1.2.3.bin",
+    "firmwareUrl": "https://example.com/firmware/firmware_v1.2.3.bin", 
     "releaseNotes": "Correções de bugs e melhorias de desempenho.",
     "changelog": [
       "Adicionado",
@@ -24,6 +24,17 @@
         "Adicionado",
         "- Páginas principais",
         "- Funcionalidades na página"
+      ]
+    },
+    {
+      "version": "0.0.5",
+      "releaseDate": "2025-01-20",
+      "firmwareUrl": "https://example.com/firmware/firmware_v1.2.3.bin",
+      "releaseNotes": "Correções de bugs e melhorias de desempenho.",
+      "changelog": [
+        "Início do projeto",
+        "- Criação do layout",
+        "- Configuração do banco de dados"
       ]
     }
   ]
