@@ -2,7 +2,7 @@
   "latest": {
     "version": "0.15.0",
     "releaseDate": "2025-02-12",
-    "firmwareUrl": "https://example.com/firmware/firmware_v0.2.0.bin",  // Acho que achei um jeito, colocar o link do github para baixar o firmware
+    "firmwareUrl": "https://example.com/firmware/firmware_v0.15.0.bin",
     "releaseNotes": "Correções de bugs e melhorias de desempenho.",
     "changelog": [
       "Adicionado",
@@ -20,7 +20,7 @@
       "id": 1,
       "version": "0.1.0",
       "releaseDate": "2025-01-28",
-      "firmwareUrl": "https://example.com/firmware/firmware_v0.1.0.bin",  // Acho que achei um jeito, colocar o link do github para baixar o firmware
+      "firmwareUrl": "https://example.com/firmware/firmware_v0.1.0.bin",
       "releaseNotes": "Correções de bugs e melhorias de desempenho.",
       "changelog": [
         "Adicionado",
@@ -32,7 +32,7 @@
       "id": 2,
       "version": "0.0.5",
       "releaseDate": "2025-01-20",
-      "firmwareUrl": "https://example.com/firmware/firmware_v0.0.5.bin",  // Acho que achei um jeito, colocar o link do github para baixar o firmware
+      "firmwareUrl": "https://example.com/firmware/firmware_v0.0.5.bin",
       "releaseNotes": "Correções de bugs e melhorias de desempenho.",
       "changelog": [
         "Início do projeto",
