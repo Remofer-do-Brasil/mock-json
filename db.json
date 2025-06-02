@@ -1,6 +1,6 @@
 {
   "latest": {
-    "version": "0.14.0",
+    "version": "0.15.0",
     "releaseDate": "2025-02-12",
     "firmwareUrl": "https://example.com/firmware/firmware_v0.2.0.bin",  // Acho que achei um jeito, colocar o link do github para baixar o firmware
     "releaseNotes": "Correções de bugs e melhorias de desempenho.",
