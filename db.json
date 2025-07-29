@@ -1,6 +1,6 @@
 {
   "latest": {
-    "version": "0.15.0",
+    "version": "0.16.0",
     "releaseDate": "2025-02-12",
     "firmwareUrl": "https://example.com/firmware/firmware_v0.15.0.bin",
     "releaseNotes": "Correções de bugs e melhorias de desempenho.",
